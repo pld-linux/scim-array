@@ -2,7 +2,7 @@ Summary:	SCIM Array 30 Input Method Engine
 Summary(zh_TW):	SCIM 行列 30 輸入法引擎
 Name:		scim-array
 Version:	1.0.1
-Release:	0.1
+Release:	1
 License:	GPL v2+
 Group:		Libraries
 Source0:	http://of.openfoundry.org/download_path/scimarray/%{version}/%{name}-%{version}.tar.gz
